@@ -1,5 +1,5 @@
 {
-  "license": "LICENCJA",
-  "token": "TOKEN UŻYTKOWNIKA DISCORD",
-  "channelId": "ID KANAŁU DO /BUMP"
+  "license": "TWOJA_LICENCJA_TUTAJ",  // Wprowadź swoją licencję (wymaganą przez projekt)
+  "token": "TWOJ_TOKEN_DISCORD_TUTAJ",  // Wprowadź swój token użytkownika Discord
+  "channelId": "ID_KANALU_BUMP"  // ID kanału, na którym ma być wysyłana komenda /bump
 }
